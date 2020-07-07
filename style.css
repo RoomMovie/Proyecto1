@@ -1,0 +1,13 @@
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+body{
+    background-color: #000000;
+}
+
+  
+  div {
+    background-color: #03DAC6;
+  }
+  
